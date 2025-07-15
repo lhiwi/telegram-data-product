@@ -1,0 +1,28 @@
+# Telegram scraping
+telethon
+python-dotenv
+
+# Database
+psycopg2-binary
+sqlalchemy
+pandas
+
+# Data modeling
+dbt-core
+dbt-postgres
+
+# Object detection
+ultralytics
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Orchestration
+dagster
+dagster-webserver
+
+# Testing and linting
+pytest
+flake8
